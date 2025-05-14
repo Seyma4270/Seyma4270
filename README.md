@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">👋 Hi !Ich bin Seyma</h1>  
-<h3 align="center">AWS Solutions Architect | Azure | DevOps Engineer | Cloud Enthusiast ☁️</h3>  
+<h3 align="center">AWS Solutions Architect | Azure | DevOps Engineer | Cloud  ☁️</h3>  
 
 
 
